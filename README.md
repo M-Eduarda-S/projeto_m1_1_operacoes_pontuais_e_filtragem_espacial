@@ -31,6 +31,10 @@ Processamento de Imagens
 
 ## Arquivo
 
+O arquivo `.ipynb` está disponível neste repositório. Como o notebook possui um tamanho grande, ele pode não ser exibido diretamente pelo GitHub.
+
+Para visualizar e executar o trabalho, é necessário **baixar o arquivo `.ipynb` e abri-lo no Google Colab**.
+
 - `projeto_m1_1_operacoes_pontuais_e_filtragem_espacial.ipynb` – Notebook com as implementações, testes e resultados do trabalho.
 
 ## Dataset
